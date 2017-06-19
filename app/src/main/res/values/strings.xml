@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">GenFrontendAndroid</string>
+    <string name="app_name">Maurice Generators</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_fp">Hello blank fragment from the fingerprint screen</string>
+    <string name="hello_blank_fragment_nl">Hello blank fragment from the Normal login screen</string>
 </resources>
